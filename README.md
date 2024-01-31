@@ -14,3 +14,10 @@ I love the entire process of developing creative websites. I love the challenge 
 [![Tools](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,wordpress,woocommerce,apache,nginx&includeNames=true&theme=nautilus)](https://github.com/hamid-manzar)
 
 [![GitHub Stats](https://github-widgetbox.vercel.app/api/profile?username=hamid-manzar&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/hamid-manzar)
+
+
+My Resume
+=========
+
+  
+![Resume](https://raw.githubusercontent.com/hamid-manzar/hamid-manzar/main/hamid-manzar-cv.png "Resume")
