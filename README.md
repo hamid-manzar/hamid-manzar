@@ -20,4 +20,4 @@ My Resume
 =========
 
   
-![Resume](https://raw.githubusercontent.com/hamid-manzar/hamid-manzar/main/hamid-manzar-cv.png "Resume")
+![Resume](https://raw.githubusercontent.com/hamid-manzar/hamid-manzar/main/h-manzar-cv.png "Resume")
